@@ -3,7 +3,7 @@
  *
  * date: Nov 13, 2017
  */
-package guru.springframework.bootstrap;
+package guru.springfamework.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
